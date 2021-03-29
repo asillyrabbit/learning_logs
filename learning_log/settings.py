@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'users',
 
     # 第三方应用程序
-    'bootstrap4'
+    'bootstrap4',
 
     # 默认添加的应用程序
     'django.contrib.admin',
